@@ -9,7 +9,7 @@ export const DATA = {
 	locationLink: '',
 	description: 'Full Stack Web Developer',
 	summary:
-		'Full Stack Developer with expertise in frontend and backend development.',
+		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking internship/full-time opportunities to further deepen my real-world software development skills.',
 	skills: [
 		'HTML',
 		'CSS',
@@ -18,12 +18,15 @@ export const DATA = {
 		'Typescript',
 		'React',
 		'React Native',
+		'Next.js',
+		'TanStack Query',
 		'Node.js',
 		'Express',
 		'Django',
 		'Postgres',
 		'MongoDB',
 		'Prisma ORM',
+		'Drizzle',
 		'Recoil',
 		'Zustand',
 		'Git',
@@ -89,29 +92,21 @@ export const DATA = {
 
 	education: [
 		{
-			school: 'Thapar Polytechnic College',
-			href: 'http://tpc.ac.in/',
-			degree: 'Diploma in Computer Science',
-			logoUrl: '#',
+			school: 'Thapar Institute of Engineering and Technology',
+			href: 'https://www.thapar.edu/',
+			degree: 'B.Eng. in Computer Science',
+			logoUrl:
+				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FGD2_H-AD1RqGQnIqngM6Mcv0CA4UjH1fg&s',
 			target: '_blank',
-			start: '2022',
-			end: '2025',
-		},
-		{
-			school: 'The Indo British School',
-			href: '#',
-			degree: 'Matriculation',
-			logoUrl: '#',
-			target: '',
-			start: '2012',
-			end: '2022',
+			start: '2024',
+			end: '2028',
 		},
 	],
 
 	projects: [
 		{
 			title: 'Course Selling Platform',
-			href: 'https://courseselling.xyz',
+			href: 'https://github.com/harmanbatheja15/course-selling-app',
 			dates: '',
 			active: true,
 			description: `Created a platform allowing instructors to register and launch personalized website to sell their courses. Instructors can upload videos, set pricing, and manage content, while students can browse and purchase courses directly from each instructor's site.`,
@@ -127,11 +122,6 @@ export const DATA = {
 				'Razorpay',
 			],
 			links: [
-				{
-					type: 'Website',
-					href: 'https://courseselling.xyz',
-					icon: <Icons.globe className='size-3' />,
-				},
 				{
 					type: 'Source',
 					href: 'https://github.com/harmanbatheja15/course-selling-app',

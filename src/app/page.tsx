@@ -7,6 +7,7 @@ import { Badge } from '@/components/ui/badge';
 import { DATA } from '@/data/resume';
 import Link from 'next/link';
 import Markdown from 'react-markdown';
+import { Icons } from '@/components/icons';
 
 const BLUR_FADE_DELAY = 0.04;
 
@@ -149,6 +150,16 @@ export default function Page() {
 								/>
 							</BlurFade>
 						))}
+					</div>
+					<div className='w-full flex items-center justify-center'>
+						<Link
+							href='https://harmanbatheja.notion.site/Projects-12ecb77ff9d080e29fb8dd0fa6a45600'
+							target='_blank'
+							className='flex items-center gap-2 text-center border rounded-full mx-auto px-6 py-4 hover:border-neutral-500 transition-all duration-500 ease-in-out'
+						>
+							Checkout all projects
+							<Icons.externalLink className='size-4' />
+						</Link>
 					</div>
 				</div>
 			</section>

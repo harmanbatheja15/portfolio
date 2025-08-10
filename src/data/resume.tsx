@@ -34,7 +34,7 @@ export const DATA = {
 	],
 	navbar: [
 		{
-			href: 'https://drive.google.com/file/d/1lz7ixULhw4jjGEfFsaFqkuhN5uzqqk2a/view',
+			href: 'https://drive.google.com/file/d/1-JIEB6GpK-UMcl_PVwc070jDAf_tyf_4/view',
 			icon: FileTextIcon,
 			label: 'Resume',
 		},
@@ -76,11 +76,23 @@ export const DATA = {
 
 	work: [
 		{
+			company: 'EthosX (YC S22)',
+			href: 'https://ethosx.finance/',
+			badges: [],
+			location: 'Remote',
+			title: 'Full Stack Developer Intern',
+			logoUrl:
+				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
+			start: 'June 2025',
+			end: 'Present',
+			description: 'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
+		},
+		{
 			company: 'Kana Labs',
 			href: 'https://kanalabs.io',
 			badges: [],
 			location: 'Remote',
-			title: 'Frontend Intern',
+			title: 'Frontend Developer Intern',
 			logoUrl:
 				'https://app.kanalabs.io/_next/static/media/Small-logo.1b003dc5.svg',
 			start: 'July 2024',
@@ -94,12 +106,22 @@ export const DATA = {
 		{
 			school: 'Thapar Institute of Engineering and Technology',
 			href: 'https://www.thapar.edu/',
-			degree: 'B.Eng. in Computer Science',
+			degree: 'B.Eng. in AI ML',
 			logoUrl:
 				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FGD2_H-AD1RqGQnIqngM6Mcv0CA4UjH1fg&s',
 			target: '_blank',
-			start: '2024',
+			start: '2025',
 			end: '2028',
+		},
+		{
+			school: 'Thapar Polytechnic College',
+			href: 'https://www.thapar.edu/',
+			degree: 'Diploma in Computer Science',
+			logoUrl:
+				'https://www.studyjankari.com/images/logo/ebe74b43800136aaca1f1de5daa49eb1.png',
+			target: '_blank',
+			start: '2022',
+			end: '2025',
 		},
 	],
 

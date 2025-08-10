@@ -180,7 +180,7 @@ export default function Page() {
 									target='_blank'
 									className='text-blue-500 hover:underline'
 								>
-									Twitter
+									X
 								</Link>{' '}
 								/{' '}
 								<Link

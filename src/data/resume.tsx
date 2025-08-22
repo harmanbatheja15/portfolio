@@ -34,7 +34,7 @@ export const DATA = {
 	],
 	navbar: [
 		{
-			href: 'https://drive.google.com/file/d/1-JIEB6GpK-UMcl_PVwc070jDAf_tyf_4/view',
+			href: 'https://drive.google.com/file/d/1IpS_xF0-4nJgofZ1-vYYrOml-ocB57qb/',
 			icon: FileTextIcon,
 			label: 'Resume',
 		},

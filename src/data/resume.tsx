@@ -104,16 +104,6 @@ export const DATA = {
 
 	education: [
 		{
-			school: 'Thapar Institute of Engineering and Technology',
-			href: 'https://www.thapar.edu/',
-			degree: 'B.Eng. in AI ML',
-			logoUrl:
-				'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8FGD2_H-AD1RqGQnIqngM6Mcv0CA4UjH1fg&s',
-			target: '_blank',
-			start: '2025',
-			end: '2028',
-		},
-		{
 			school: 'Thapar Polytechnic College',
 			href: 'https://www.thapar.edu/',
 			degree: 'Diploma in Computer Science',

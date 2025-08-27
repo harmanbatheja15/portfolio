@@ -10,6 +10,7 @@ export const DATA = {
 	description: 'Full Stack Web Developer',
 	summary:
 		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking internship/full-time opportunities to further deepen my real-world software development skills.',
+	
 	skills: [
 		'HTML',
 		'CSS',
@@ -85,7 +86,10 @@ export const DATA = {
 				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
 			start: 'June 2025',
 			end: 'Present',
-			description: 'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
+			description: '',
+			point1: '• Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
+			point2: '• Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
+			point3: '',
 		},
 		{
 			company: 'Kana Labs',
@@ -99,6 +103,9 @@ export const DATA = {
 			end: 'Sep 2024',
 			description:
 				'Developed 10+ Landing Pages and frontend features using React and Next.js, ensuring smooth and responsive user experiences. Managed application state with Zustand to ensure efficient and predictable data flow across the app.',
+			point1: "",
+			point2: "",
+			point3: "",
 		},
 	],
 

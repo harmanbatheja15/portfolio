@@ -92,6 +92,21 @@ export const DATA = {
 			point3: '',
 		},
 		{
+			company: '100xDevs',
+			href: 'https://100xdevs.com/',
+			badges: [],
+			location: 'Remote',
+			title: 'Full Stack Developer Intern',
+			logoUrl:
+				'https://yt3.googleusercontent.com/COevS00sZDbVXOwMeI4JspPSfvjQTxsnC1LSTSsfI15N0P2ziQph2j4j4tNIb38BTmvPR5oB=s900-c-k-c0x00ffffff-no-rj',
+			start: 'Oct 2024',
+			end: 'March 2025',
+			description: '',
+			point1: 'Worked on mobile app where students can watch course videos.',
+			point2: 'Revamped the 100xDevs website making the user experience much better.',
+			point3: '',
+		},
+		{
 			company: 'Kana Labs',
 			href: 'https://kanalabs.io',
 			badges: [],

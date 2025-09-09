@@ -87,8 +87,8 @@ export const DATA = {
 			start: 'June 2025',
 			end: 'Present',
 			description: '',
-			point1: '• Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
-			point2: '• Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
+			point1: 'Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
+			point2: 'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
 			point3: '',
 		},
 		{
@@ -107,12 +107,37 @@ export const DATA = {
 			point2: "",
 			point3: "",
 		},
+		{
+			company: 'Cambridge Innovation Labs',
+			href: 'https://cambridgeinnovationlabs.com',
+			badges: [],
+			location: 'Remote',
+			title: 'Full Stack Developer Intern',
+			logoUrl:
+				'https://cambridgeinnovationlabs.com/logo.png',
+			start: 'March 2024',
+			end: 'June 2024',
+			description: '',
+			point1: "Contributed to Platonia, a breakthrough “learning-web” platform—supported by Innovate UK—designed to enable skill-sharing and peer-to-peer mentorship through a built-in student-teacher graph architecture.",
+			point2: "Worked on both Frontend and Backend features, enhancing user interface and experience.",
+			point3: "",
+		},
 	],
 
 	education: [
 		{
+			school: 'Asra College of Engineering and Technology',
+			href: 'https://www.asracollege.edu.in/top-engineering-colleges-in-punjab-india/',
+			degree: 'B.E. in Computer Science',
+			logoUrl:
+				'https://www.asracollege.edu.in/wp-content/uploads/2018/03/Capture.jpg',
+			target: '_blank',
+			start: '2025',
+			end: '2028',
+		},
+		{
 			school: 'Thapar Polytechnic College',
-			href: 'https://www.thapar.edu/',
+			href: 'http://www.tpc.ac.in/',
 			degree: 'Diploma in Computer Science',
 			logoUrl:
 				'https://www.studyjankari.com/images/logo/ebe74b43800136aaca1f1de5daa49eb1.png',

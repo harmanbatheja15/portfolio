@@ -94,9 +94,9 @@ export const ResumeCard = ({
 
 					{(point1 || point2 || point3) && (
 						<div className='mt-2 text-xs sm:text-sm text-gray-200'>
-							{point1 && <div>{point1}</div>}
-							{point2 && <div>{point2}</div>}
-							{point3 && <div>{point3}</div>}
+							{point1 && <div>• {point1}</div>}
+							{point2 && <div>• {point2}</div>}
+							{point3 && <div>• {point3}</div>}
 						</div>
 					)}
 				</div>

@@ -10,7 +10,7 @@ export const DATA = {
 	description: 'Full Stack Web Developer',
 	summary:
 		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking internship/full-time opportunities to further deepen my real-world software development skills.',
-	
+
 	skills: [
 		'HTML',
 		'CSS',
@@ -77,6 +77,22 @@ export const DATA = {
 
 	work: [
 		{
+			company: 'Interstate',
+			href: 'https://narrative.trade/',
+			badges: [],
+			location: 'Remote',
+			title: 'Full Stack Developer',
+			logoUrl:
+				'https://pbs.twimg.com/profile_images/1998919546657239040/VNaHw4TC_400x400.jpg',
+			start: 'Oct 2025',
+			end: 'Present',
+			description:
+				'Building narrative.trade, an on-chain trading platform for Solana memecoins.',
+			point1: '',
+			point2: '',
+			point3: '',
+		},
+		{
 			company: 'EthosX (YC S22)',
 			href: 'https://ethosx.finance/',
 			badges: [],
@@ -85,10 +101,12 @@ export const DATA = {
 			logoUrl:
 				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
 			start: 'June 2025',
-			end: 'Present',
+			end: 'Nov 2025',
 			description: '',
-			point1: 'Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
-			point2: 'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
+			point1:
+				'Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
+			point2:
+				'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
 			point3: '',
 		},
 		{
@@ -103,24 +121,25 @@ export const DATA = {
 			end: 'March 2025',
 			description: '',
 			point1: 'Worked on mobile app where students can watch course videos.',
-			point2: 'Revamped the 100xDevs website making the user experience much better.',
+			point2:
+				'Revamped the 100xDevs website making the user experience much better.',
 			point3: '',
 		},
 		{
-			company: 'Kana Labs',
-			href: 'https://kanalabs.io',
+			company: 'Xyra Labs',
+			href: 'https://www.xyralabs.io/',
 			badges: [],
 			location: 'Remote',
 			title: 'Frontend Developer Intern',
 			logoUrl:
-				'https://app.kanalabs.io/_next/static/media/Small-logo.1b003dc5.svg',
+				'https://media.licdn.com/dms/image/v2/D560BAQFy13gXcvBqeg/company-logo_200_200/B56ZoWH8I2KEAI-/0/1761307772470/xyralabs_logo?e=2147483647&v=beta&t=ylHMfWJni_ludXLTUL9or_X-LIK6hvJfM2hnr37L6CQ',
 			start: 'July 2024',
 			end: 'Sep 2024',
 			description:
 				'Developed 10+ Landing Pages and frontend features using React and Next.js, ensuring smooth and responsive user experiences. Managed application state with Zustand to ensure efficient and predictable data flow across the app.',
-			point1: "",
-			point2: "",
-			point3: "",
+			point1: '',
+			point2: '',
+			point3: '',
 		},
 		{
 			company: 'Cambridge Innovation Labs',
@@ -128,14 +147,15 @@ export const DATA = {
 			badges: [],
 			location: 'Remote',
 			title: 'Full Stack Developer Intern',
-			logoUrl:
-				'https://cambridgeinnovationlabs.com/logo.png',
+			logoUrl: 'https://cambridgeinnovationlabs.com/logo.png',
 			start: 'March 2024',
 			end: 'June 2024',
 			description: '',
-			point1: "Contributed to Platonia, a breakthrough “learning-web” platform—supported by Innovate UK—designed to enable skill-sharing and peer-to-peer mentorship through a built-in student-teacher graph architecture.",
-			point2: "Worked on both Frontend and Backend features, enhancing user interface and experience.",
-			point3: "",
+			point1:
+				'Contributed to Platonia, a breakthrough “learning-web” platform, supported by Innovate UK, designed to enable skill-sharing and peer-to-peer mentorship through a built-in student-teacher graph architecture.',
+			point2:
+				'Worked on both Frontend and Backend features, enhancing user interface and experience.',
+			point3: '',
 		},
 	],
 
@@ -154,8 +174,7 @@ export const DATA = {
 			school: 'Thapar Polytechnic College',
 			href: 'http://www.tpc.ac.in/',
 			degree: 'Diploma in Computer Science',
-			logoUrl:
-				'https://www.studyjankari.com/images/logo/ebe74b43800136aaca1f1de5daa49eb1.png',
+			logoUrl: 'http://tpc.ac.in/images/logo.png',
 			target: '_blank',
 			start: '2022',
 			end: '2025',

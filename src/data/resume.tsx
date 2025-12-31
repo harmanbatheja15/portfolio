@@ -104,7 +104,7 @@ export const DATA = {
 			end: 'Nov 2025',
 			description: '',
 			point1:
-				'Building Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
+				'Contributed to Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
 			point2:
 				'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
 			point3: '',

@@ -9,7 +9,7 @@ export const DATA = {
 	locationLink: '',
 	description: 'Full Stack Web Developer',
 	summary:
-		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking internship/full-time opportunities to further deepen my real-world software development skills.',
+		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking full-time opportunities to further deepen my real-world software development skills.',
 
 	skills: [
 		'HTML',
@@ -35,7 +35,7 @@ export const DATA = {
 	],
 	navbar: [
 		{
-			href: 'https://drive.google.com/file/d/1IpS_xF0-4nJgofZ1-vYYrOml-ocB57qb/',
+			href: 'https://drive.google.com/file/d/1FJAiuB258vhU6QlRAb_A4A-Cxep5Vrbr/view',
 			icon: FileTextIcon,
 			label: 'Resume',
 		},
@@ -78,16 +78,16 @@ export const DATA = {
 	work: [
 		{
 			company: 'Interstate',
-			href: 'https://narrative.trade/',
+			href: 'https://interstate.so/',
 			badges: [],
 			location: 'Remote',
 			title: 'Full Stack Developer',
 			logoUrl:
-				'https://pbs.twimg.com/profile_images/1998919546657239040/VNaHw4TC_400x400.jpg',
+				'https://cdn.prod.website-files.com/689ad3276bc428c70432ae22/689ad3276bc428c70432ae83_logo.png',
 			start: 'Oct 2025',
 			end: 'Present',
 			description:
-				'Building narrative.trade, an on-chain trading platform for Solana memecoins.',
+				'Building a memecoin trading platform on Solana.',
 			point1: '',
 			point2: '',
 			point3: '',
@@ -97,7 +97,7 @@ export const DATA = {
 			href: 'https://ethosx.finance/',
 			badges: [],
 			location: 'Remote',
-			title: 'Full Stack Developer Intern',
+			title: 'Full Stack Developer',
 			logoUrl:
 				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
 			start: 'June 2025',
@@ -114,7 +114,7 @@ export const DATA = {
 			href: 'https://100xdevs.com/',
 			badges: [],
 			location: 'Remote',
-			title: 'Full Stack Developer Intern',
+			title: 'Full Stack Developer',
 			logoUrl:
 				'https://yt3.googleusercontent.com/COevS00sZDbVXOwMeI4JspPSfvjQTxsnC1LSTSsfI15N0P2ziQph2j4j4tNIb38BTmvPR5oB=s900-c-k-c0x00ffffff-no-rj',
 			start: 'Oct 2024',

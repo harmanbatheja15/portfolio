@@ -93,14 +93,14 @@ export const DATA = {
 			point3: '',
 		},
 		{
-			company: 'EthosX (YC S22)',
+			company: 'Fliq by EthosX (YC S22)',
 			href: 'https://ethosx.finance/',
 			badges: [],
 			location: 'Remote',
 			title: 'Full Stack Developer',
 			logoUrl:
 				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
-			start: 'June 2025',
+			start: 'Apr 2025',
 			end: 'Nov 2025',
 			description: '',
 			point1:
@@ -148,7 +148,7 @@ export const DATA = {
 			location: 'Remote',
 			title: 'Full Stack Developer Intern',
 			logoUrl: 'https://cambridgeinnovationlabs.com/logo.png',
-			start: 'March 2024',
+			start: 'Jan 2024',
 			end: 'June 2024',
 			description: '',
 			point1:

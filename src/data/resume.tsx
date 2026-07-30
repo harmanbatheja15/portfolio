@@ -7,9 +7,10 @@ export const DATA = {
 	url: 'https://harmanbatheja.tech',
 	location: 'Patiala, Punjab, India',
 	locationLink: '',
-	description: 'Full Stack Web Developer',
+	description: 'Full Stack & Mobile App Developer',
 	summary:
-		'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking full-time opportunities to further deepen my real-world software development skills.',
+		// 'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking full-time opportunities to further deepen my real-world software development skills.',
+		'Full Stack Engineer with 2+ years of experience building production web and mobile applications using TypeScript, React, Next.js, Node.js, PostgreSQL, and React Native. Experienced in developing end-to-end product features, scalable backend services, REST APIs, and modern frontend applications. Passionate about Web3, DeFi, and building reliable software in fast-paced startup environments.',
 
 	skills: [
 		'HTML',
@@ -23,6 +24,9 @@ export const DATA = {
 		'TanStack Query',
 		'Node.js',
 		'Express',
+		'Solana',
+		'Wallet Integration',
+		'DeFi',
 		'Django',
 		'Postgres',
 		'MongoDB',
@@ -32,6 +36,7 @@ export const DATA = {
 		'Zustand',
 		'Git',
 		'AWS',
+		'Claude',
 	],
 	navbar: [
 		{
@@ -86,11 +91,15 @@ export const DATA = {
 				'https://cdn.prod.website-files.com/689ad3276bc428c70432ae22/689ad3276bc428c70432ae83_logo.png',
 			start: 'Oct 2025',
 			end: 'Present',
-			description:
-				'Building a memecoin trading platform on Solana.',
-			point1: '',
-			point2: '',
-			point3: '',
+			description: '',
+			point1:
+				'Building a production-grade memecoin trading platform on Solana.',
+			point2:
+				'Developing full-stack features using React, TypeScript, Node.js, and PostgreSQL.',
+			point3:
+				'Implementing turnkey wallet authentication, transaction signing, backend APIs, and real-time trading workflows.',
+			point4:
+				'Designing scalable application architecture focused on performance and reliability.',
 		},
 		{
 			company: 'Fliq by EthosX (YC S22)',
@@ -104,10 +113,11 @@ export const DATA = {
 			end: 'Nov 2025',
 			description: '',
 			point1:
-				'Contributed to Fliq, a Creator-Driven Prediction Markets Platform based on Aptos Chain',
+				'Built full-stack features for Fliq, a creator-driven prediction markets platform on Aptos.',
 			point2:
-				'Contributed to Operps, a DeFi trading platform, working on both frontend and backend. Implemented new features, optimized APIs, and improved UI/UX for a smoother trading experience.',
-			point3: '',
+				'Developed frontend interfaces and backend APIs for Operps, a DeFi trading platform',
+			point3:
+				'Collaborated with product and engineering teams to deliver production-ready features.',
 		},
 		{
 			company: '100xDevs',
@@ -120,10 +130,12 @@ export const DATA = {
 			start: 'Oct 2024',
 			end: 'March 2025',
 			description: '',
-			point1: 'Worked on mobile app where students can watch course videos.',
+			point1:
+				'Built product features for a mobile learning platform serving thousands of students.',
 			point2:
-				'Revamped the 100xDevs website making the user experience much better.',
-			point3: '',
+				'Revamped the 100xDevs website, improving responsiveness and user experience.',
+			point3:
+				'Worked across frontend and backend to ship production-ready features.',
 		},
 		{
 			company: 'Xyra Labs',
@@ -135,11 +147,13 @@ export const DATA = {
 				'https://media.licdn.com/dms/image/v2/D560BAQFy13gXcvBqeg/company-logo_200_200/B56ZoWH8I2KEAI-/0/1761307772470/xyralabs_logo?e=2147483647&v=beta&t=ylHMfWJni_ludXLTUL9or_X-LIK6hvJfM2hnr37L6CQ',
 			start: 'July 2024',
 			end: 'Sep 2024',
-			description:
-				'Developed 10+ Landing Pages and frontend features using React and Next.js, ensuring smooth and responsive user experiences. Managed application state with Zustand to ensure efficient and predictable data flow across the app.',
-			point1: '',
-			point2: '',
-			point3: '',
+			description: '',
+			point1:
+				'Developed responsive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS.',
+			point2:
+				'Optimized frontend performance and resolved production issues to improve application stability.',
+			point3:
+				'Integrated REST APIs and collaborated closely with backend engineers to deliver new features.',
 		},
 		{
 			company: 'Cambridge Innovation Labs',
@@ -152,9 +166,9 @@ export const DATA = {
 			end: 'June 2024',
 			description: '',
 			point1:
-				'Contributed to Platonia, a breakthrough “learning-web” platform, supported by Innovate UK, designed to enable skill-sharing and peer-to-peer mentorship through a built-in student-teacher graph architecture.',
+				'Developed frontend and backend features for Platonia, an Innovate UK-supported learning platform.',
 			point2:
-				'Worked on both Frontend and Backend features, enhancing user interface and experience.',
+				'Built scalable application features and collaborated in a remote engineering team to deliver production functionality',
 			point3: '',
 		},
 	],

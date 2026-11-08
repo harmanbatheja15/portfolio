@@ -4,7 +4,7 @@ import { FileTextIcon } from 'lucide-react';
 export const DATA = {
 	name: 'Harman Batheja',
 	initials: 'HB',
-	url: 'https://harmanbatheja.tech',
+	url: 'https://harmanbatheja.com',
 	location: 'Patiala, Punjab, India',
 	locationLink: '',
 	description: 'Full Stack & Mobile Engineer',
@@ -86,7 +86,7 @@ export const DATA = {
 			href: 'https://interstate.trade/',
 			badges: [],
 			location: 'Remote',
-			title: 'Full Stack Developer',
+			title: 'Full Stack Engineer',
 			logoUrl:
 				'https://cdn.prod.website-files.com/689ad3276bc428c70432ae22/689ad3276bc428c70432ae83_logo.png',
 			start: 'Oct 2025',
@@ -106,7 +106,7 @@ export const DATA = {
 			href: 'https://ethosx.finance/',
 			badges: [],
 			location: 'Remote',
-			title: 'Full Stack Developer',
+			title: 'Full Stack Engineer',
 			logoUrl:
 				'https://media.licdn.com/dms/image/v2/D4D0BAQGz_UyvjUWnog/company-logo_200_200/company-logo_200_200/0/1727457455242/ethosx_logo?e=2147483647&v=beta&t=l3K_Cu6AtbLbdBXxSMWr4Jpt1lUp8agOHwuh_Qp2PRU',
 			start: 'Apr 2025',
@@ -123,8 +123,8 @@ export const DATA = {
 			company: '100xDevs',
 			href: 'https://100xdevs.com/',
 			badges: [],
-			location: 'Remote',
-			title: 'Full Stack Developer',
+			location: 'Delhi, India',
+			title: 'Full Stack Engineer',
 			logoUrl:
 				'https://yt3.googleusercontent.com/COevS00sZDbVXOwMeI4JspPSfvjQTxsnC1LSTSsfI15N0P2ziQph2j4j4tNIb38BTmvPR5oB=s900-c-k-c0x00ffffff-no-rj',
 			start: 'Oct 2024',

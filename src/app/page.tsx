@@ -29,6 +29,15 @@ export default function Page() {
 								delay={BLUR_FADE_DELAY}
 								text={DATA.description}
 							/>
+							<BlurFade delay={BLUR_FADE_DELAY * 2}>
+								<span className='mt-2 inline-flex w-fit items-center gap-2 rounded-full border px-3 py-1 text-sm font-medium text-muted-foreground'>
+									<span className='relative flex size-2'>
+										<span className='absolute inline-flex size-full animate-ping rounded-full bg-emerald-500 opacity-75' />
+										<span className='relative inline-flex size-2 rounded-full bg-emerald-500' />
+									</span>
+									{DATA.tagline}
+								</span>
+							</BlurFade>
 						</div>
 						{/* <BlurFade delay={BLUR_FADE_DELAY}>
 							<Avatar className='size-28 border'>
@@ -96,7 +105,8 @@ export default function Page() {
 								altText={education.school}
 								title={education.school}
 								subtitle={education.degree}
-								period={`${education.start} - ${education.end}`}
+								// period={`${education.start} - ${education.end}`}
+								period={`${education.start} ${education.end}`}
 							/>
 						</BlurFade>
 					))}

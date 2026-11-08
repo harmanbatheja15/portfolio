@@ -7,27 +7,26 @@ export const DATA = {
 	url: 'https://harmanbatheja.tech',
 	location: 'Patiala, Punjab, India',
 	locationLink: '',
-	description: 'Full Stack & Mobile App Developer',
+	description: 'Full Stack & Mobile Engineer',
+	tagline: 'Open to opportunities',
 	summary:
 		// 'Full Stack Developer proficient in React, Node.js, and React Native, with hands-on experience building web and mobile applications. Seeking full-time opportunities to further deepen my real-world software development skills.',
-		'Full Stack Engineer with 2+ years of experience building production web and mobile applications using TypeScript, React, Next.js, Node.js, PostgreSQL, and React Native. Experienced in developing end-to-end product features, scalable backend services, REST APIs, and modern frontend applications. Passionate about Web3, DeFi, and building reliable software in fast-paced startup environments.',
+		'Full Stack & Mobile Engineer with 2+ years of experience building production web and mobile applications. Experienced in developing end-to-end product features, scalable backend services, REST APIs, and modern frontend applications. Open to opportunities',
 
 	skills: [
-		'HTML',
-		'CSS',
-		'Tailwind CSS',
 		'JavaScript',
+		'React.js',
 		'Typescript',
-		'React',
-		'React Native',
-		'Next.js',
 		'TanStack Query',
+		'React Native',
+		'Tailwind CSS',
+		'Next.js',
 		'Node.js',
-		'Express',
+		'Express.js',
+		'Django',
 		'Solana',
 		'Wallet Integration',
 		'DeFi',
-		'Django',
 		'Postgres',
 		'MongoDB',
 		'Prisma ORM',
@@ -36,7 +35,8 @@ export const DATA = {
 		'Zustand',
 		'Git',
 		'AWS',
-		'Claude',
+		'Claude Code',
+		'Codex',
 	],
 	navbar: [
 		{
@@ -83,14 +83,14 @@ export const DATA = {
 	work: [
 		{
 			company: 'Interstate',
-			href: 'https://interstate.so/',
+			href: 'https://interstate.trade/',
 			badges: [],
 			location: 'Remote',
 			title: 'Full Stack Developer',
 			logoUrl:
 				'https://cdn.prod.website-files.com/689ad3276bc428c70432ae22/689ad3276bc428c70432ae83_logo.png',
 			start: 'Oct 2025',
-			end: 'Present',
+			end: 'Sep 2026',
 			description: '',
 			point1:
 				'Building a production-grade memecoin trading platform on Solana.',
@@ -181,8 +181,8 @@ export const DATA = {
 			logoUrl:
 				'https://www.asracollege.edu.in/wp-content/uploads/2018/03/Capture.jpg',
 			target: '_blank',
-			start: '2025',
-			end: '2028',
+			start: '',
+			end: '',
 		},
 		{
 			school: 'Thapar Polytechnic College',
@@ -190,12 +190,29 @@ export const DATA = {
 			degree: 'Diploma in Computer Science',
 			logoUrl: 'http://tpc.ac.in/images/logo.png',
 			target: '_blank',
-			start: '2022',
-			end: '2025',
+			start: '',
+			end: '',
 		},
 	],
 
 	projects: [
+		{
+			title: 'Options Trading Platform',
+			href: 'https://github.com/harmanbatheja15/perpetual-trading-platform',
+			dates: '',
+			active: true,
+			description: 'A real-time options trading platform like Exness built with Node.js, Express, PostgreSQL, and Next.js frontend.',
+			technologies: ['Next.js', 'Typescript', 'Node.js', 'Express.js', 'PostgreSQL', 'Prisma', 'TailwindCSS'],
+			links: [
+				{
+					type: 'Source',
+					href: 'https://github.com/harmanbatheja15/100xness',
+					icon: <Icons.github className='size-3' />,
+				},
+			],
+			image: '/100xness.png',
+			video: '',
+		},
 		{
 			title: 'Course Selling Platform',
 			href: 'https://github.com/harmanbatheja15/course-selling-app',
@@ -307,23 +324,23 @@ export const DATA = {
 			image: '/landing-page.png',
 			video: '',
 		},
-		{
-			title: 'Kanalabs: Redefining Perpetual Trading',
-			href: 'https://kanalabs-landing-page.vercel.app/',
-			dates: '',
-			active: true,
-			description:
-				'Created a dedicated landing page for Perpetual Trading for Kana Labs, highlighting key features and benefits.',
-			technologies: ['React', 'TailwindCSS'],
-			links: [
-				{
-					type: 'Website',
-					href: 'https://kanalabs-landing-page.vercel.app/',
-					icon: <Icons.globe className='size-3' />,
-				},
-			],
-			image: '/perpetual-trading.png',
-			video: '',
-		},
+		// {
+		// 	title: 'Kanalabs: Redefining Perpetual Trading',
+		// 	href: 'https://kanalabs-landing-page.vercel.app/',
+		// 	dates: '',
+		// 	active: true,
+		// 	description:
+		// 		'Created a dedicated landing page for Perpetual Trading for Kana Labs, highlighting key features and benefits.',
+		// 	technologies: ['React', 'TailwindCSS'],
+		// 	links: [
+		// 		{
+		// 			type: 'Website',
+		// 			href: 'https://kanalabs-landing-page.vercel.app/',
+		// 			icon: <Icons.globe className='size-3' />,
+		// 		},
+		// 	],
+		// 	image: '/perpetual-trading.png',
+		// 	video: '',
+		// },
 	],
 } as const;

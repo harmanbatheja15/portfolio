@@ -198,7 +198,7 @@ export const DATA = {
 	projects: [
 		{
 			title: 'Options Trading Platform',
-			href: 'https://github.com/harmanbatheja15/perpetual-trading-platform',
+			href: 'https://github.com/harmanbatheja15/100xness',
 			dates: '',
 			active: true,
 			description: 'A real-time options trading platform like Exness built with Node.js, Express, PostgreSQL, and Next.js frontend.',
